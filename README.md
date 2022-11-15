@@ -5,7 +5,7 @@
 3. Выполнить команду `yarn start` или `npm start`.
 
 
-STack:
+STACK:
 
 - NodeJS, Express
 - TypeScript
